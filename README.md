@@ -1,5 +1,7 @@
-## Radioberry Device Driver
+## Customized Radioberry Device Driver
 
+This version is customized for better performance on 384 Khz bitrate.
+Don't use this version, only incase of issues with 384 Khz on a raspberry pi4
 
 This device driver is a special for the RPI-4.
 
