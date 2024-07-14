@@ -4,8 +4,8 @@ This version is customized for better performance on 384 Khz bitrate.
 Don't use this version, only incase of issues with 384 Khz on a raspberry pi4
 
 This version can switch between polling and irq based data stream, by adding dtparam=enabe-irq=1
-The polling method will increase the load on the CPU one core will run at 100%
-Irq method is prefered for normal operation
+The polling method will increase the load on the CPU one core will run at 100%  
+Irq method is prefered for normal operation.
 
 ## Radioberry Device Driver
 This device driver is a special for the RPI-4.
